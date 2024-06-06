@@ -1,0 +1,11 @@
+{
+  "name": "mern-job-finder",
+  "version": "1.0.0",
+  "description": "This is a Job Finder application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The application allows users to register, login, update their profiles, search and apply for jobs, and allows admin users to manage jobs and view responses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
